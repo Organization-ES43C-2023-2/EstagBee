@@ -1,3 +1,5 @@
+# Requisitos Não Funcionais
+
 | Nº identificador    | Requisito Não Funcional                              | Descrição                                                                                                                |
 |-------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | RNF001 | Usabilidade                                            | O sistema deve ser intuitivo e de fácil utilização para estudantes, empresas e administradores.                         |
