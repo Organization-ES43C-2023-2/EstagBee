@@ -1,7 +1,7 @@
 # Histórias de Usuário
 
-| Nº Identificador     | História de Usuário                                                                                                                                             | Prioridade | Identificador RF/RNF | Status
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------|------------------|
+| Nº Identificador     | História de Usuário                                                                                                                                             | Prioridade | Identificador RF/RNF |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------|
 | HU001                | Como usuário, desejo poder me cadastrar no EstagBee para acessar e candidatar-me a vagas de estágio relevantes para minha área de interesse.       | Alta       | RF001            |
 | HU002                | Como empresa, desejo poder cadastrar minha empresa no EstagBee para publicar vagas de estágio e receber candidaturas de estudantes qualificados.                 | Alta       | RF002            |
 | HU003                | Como usuário, desejo poder pesquisar vagas de estágio no EstagBee com base em critérios como área de atuação, cidade e requisitos, a fim de encontrar oportunidades que atendam às minhas preferências. | Média      | RF004            |
@@ -10,12 +10,10 @@
 | HU006                | Como empresa, desejo poder avaliar os candidatos no EstagBee e registrar minhas análises, a fim de tomar decisões informadas durante o processo de seleção.         | Baixa      | RF007            |
 | HU007                | Como usuário, desejo receber notificações e alertas do EstagBee sobre novas vagas de estágio e atualizações nas minhas candidaturas, para estar sempre atualizado e não perder oportunidades. | Alta       | RF008            |
 | HU008                | Como usuário, desejo ter acesso a relatórios e estatísticas sobre o número de vagas, candidaturas, empresas cadastradas e outros dados relevantes, para obter insights sobre o mercado de estágios. | Média      | RF009            |
-| HU009                | Como usuário, desejo que o sistema seja intuitivo, responsivo e de fácil utilização, para que eu possa navegar e interagir com facilidade. | Alta       | -                |
 | HU010         	   | Como usuário, desejo que a interface do EstagBee seja carregada em menos de 3 segundos após o login para que eu possa começar a usar o sistema rapidamente. |  Baixa		| RNF001
 | HU011         	   | Como administrador, desejo que o sistema seja capaz de suportar 100.000 cadastros de estudantes, 10.000 cadastros de empresas e 1.000.000 de candidaturas sem comprometer o desempenho. | Alta | RNF002 | 
 | HU012            	 | Como usuário, desejo que a interface do EstagBee seja intuitiva e de fácil utilização para que eu possa navegar e interagir com facilidade.                    | Alta       | RNF001                   |
 | HU013             | Como usuário, desejo que as interfaces do EstagBee sejam responsivas e adaptáveis a diferentes dispositivos para que eu possa acessar o sistema em qualquer lugar. | Alta       | RNF001                   |
-| ~~HU014~~             | ~~Como administrador, desejo que o sistema seja capaz de suportar 100.000 cadastros de estudantes, 10.000 cadastros de empresas e 1.000.000 de candidaturas sem comprometer o desempenho.~~ | ~~Alta~~ | ~~RNF002~~ | Cancelada / Repetida
 | HU015             | Como usuário, desejo que as operações de pesquisa de vagas de estágio sejam concluídas em menos de 5 segundos, mesmo ao lidar com um grande volume de dados, para que eu possa encontrar oportunidades rapidamente. | Alta | RNF002 |
 | HU016             | Como usuário, desejo que o sistema garanta a segurança e privacidade dos meus dados pessoais, restringindo o acesso apenas a usuários autorizados. | Alta | RNF003 |
 | HU017             | Como administrador, desejo que o sistema esteja disponível para uso durante pelo menos 99% do tempo uptime para garantir sua confiabilidade. | Alta | RNF004 |
