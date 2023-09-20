@@ -1,6 +1,6 @@
 # Requisitos Funcionais
 
-| Nº    | Requisito Funcional                                    | Descrição                                                                                                                |
+| Nº identificador    | Requisito Funcional                                    | Descrição                                                                                                                |
 |-------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | RF001 | Cadastro de estudantes de faculdade                    | O sistema deve permitir o cadastro de estudantes de faculdade interessados em vagas de estágio.                        |
 |       |                                                       | Os campos obrigatórios para o cadastro devem incluir nome, e-mail, faculdade, curso e ano de ingresso.                  |
