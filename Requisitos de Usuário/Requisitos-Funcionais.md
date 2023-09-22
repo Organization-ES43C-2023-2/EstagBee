@@ -1,7 +1,7 @@
 # Requisitos Funcionais
 
 |Identificador | Descrição                                                                                                                | Prioridade | Depende de |
-|-------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|-------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----|
 | RF01 |        O sistema deve permitir o cadastro de estudantes de faculdade interessados em vagas de estágio.                        | Alta|
 |      |        Os campos obrigatórios para o cadastro devem incluir nome, e-mail, faculdade, curso e ano de ingresso.                  | 
 | RF02 |        O sistema deve permitir o cadastro de empresas que oferecem vagas de estágio.                                           | Alta |
