@@ -16,7 +16,7 @@
 |      |        O sistema deve permitir a comunicação entre empresas e estudantes durante o processo de seleção.                        |
 | RF07 |        As empresas devem poder avaliar os candidatos e registrar suas análises no sistema.                                      | Média|   RF01, RF02, RF03, FR04, RF05, RF06 |
 |      |        O sistema deve permitir a classificação dos candidatos de acordo com critérios pré-definidos.                           |
-| RF08 |        O sistema deve enviar notificações e alertas para os estudantes sobre novas vagas de estágio e atualizações nas suas candidaturas. | Baixa| RF01, RF02, RF03, RF04,RF05, RF06, RF07 |
+| RF08 |        O sistema deve enviar notificações e alertas para os estudantes sobre novas vagas de estágio e atualizações nas suas candidaturas. | Baixa| RF01, RF02, RF03, RF04, RF05, RF06, RF07 |
 | RF09 |        O sistema deve gerar relatórios e estatísticas sobre o número de vagas, candidaturas, empresas cadastradas e outros dados relevantes. | Baixa| RF01, RF02, RF03, RF04, RF05, RF06, RF07, RF08 |
 
 
