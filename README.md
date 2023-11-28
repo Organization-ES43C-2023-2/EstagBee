@@ -11,9 +11,9 @@ Link para acesso ao protótipo no Figma:
 [Figma](https://www.figma.com/file/dwD8ZrD11MsWOJmlu42NuL/Estagbee?type=design&node-id=84%3A2448&mode=design&t=LDDzU3P5ghKUFGjt-1)
 
 ### Alunos
-- [Gustavo Prezoto Boca] (https://www.linkedin.com/in/gustavo-prezoto-boca-28485a164/)
-- [Vitória Silva Millnitz] (https://www.linkedin.com/in/vit%C3%B3ria-millnitz-9480791b1/)
-- [João Pedro Santos de Araujo] (https://www.linkedin.com/in/joaopedrosaraujo/)
-- [Victor Matheus Tavares Rafael] (https://www.linkedin.com/in/v%C3%ADctor-rafael-a13846236/)
-- [Gabriel Henrique de Almeida Souza] (https://www.linkedin.com/in/gabriel-henrique-de-almeida-souza-3ba475250/)
+- [Gustavo Prezoto Boca](https://www.linkedin.com/in/gustavo-prezoto-boca-28485a164/)
+- [Vitória Silva Millnitz](https://www.linkedin.com/in/vit%C3%B3ria-millnitz-9480791b1/)
+- [João Pedro Santos de Araujo](https://www.linkedin.com/in/joaopedrosaraujo/)
+- [Victor Matheus Tavares Rafael](https://www.linkedin.com/in/v%C3%ADctor-rafael-a13846236/)
+- [Gabriel Henrique de Almeida Souza](https://www.linkedin.com/in/gabriel-henrique-de-almeida-souza-3ba475250/)
 
